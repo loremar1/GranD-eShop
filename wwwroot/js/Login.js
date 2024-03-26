@@ -6,7 +6,7 @@
         }
         else if ($(this).attr('id') == 'check1') {
             $('#content2').show();
-            $('#content').hide(); // Oculta el contenido si se selecciona el botón check1
+            $('#content').hide(); // Oculta el contenido si se selecciona el botón check1ghfgh1
         }
     });
 });
